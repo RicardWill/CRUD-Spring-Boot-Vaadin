@@ -48,31 +48,24 @@ sonas de profesionales en el desarrollo de software y aplicaciones móviles para
 
 -> Contar con una interfaz para realizar el chequeo de entrada del empleado con los siguientes datos:
 
--Clave de empleado.
-
--Fecha y hora.
-
--Identificador del kiosko.
+- Clave de empleado.
+- Fecha y hora.
+- Identificador del kiosko.
 
 -> Contar con una interfaz para realizar el chequeo de salida del empleado con los siguientes datos:
 
--Clave de empleado.
-
--Fecha y hora.
-
--Identificador del kiosko.
+- Clave de empleado.
+- Fecha y hora.
+- Identificador del kiosko.
 
 -> Generar un reporte visual de las entradas realizadas.
 
 -> Generar un reporte visual de las salidas realizadas.
 
 ## Detalles de ejecución
--Vaadin 23.0.9
-
-
--IntelliJ IDEA 2022.1.1 (Community Edition)
-
--Java Development Kit v18
+- Vaadin 23.0.9
+- IntelliJ IDEA 2022.1.1 (Community Edition)
+- Java Development Kit v18
 Build #IC-221.5591.52, built on May 10, 2022
 Runtime version: 11.0.14.1+1-b2043.45 amd64
 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
