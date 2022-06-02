@@ -1,38 +1,26 @@
-# Flow CRM Tutorial
+# Aplicación WEB con Java Spring Boot & Vaadin
 
-This project can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+Este proyecto es una recreación de una problemática dado utilizando la tecnología Vaadin con Spring Boot.
 
-## Running the application
+## ¿Como ejecuto la aplicación?
 
-The project is a standard Maven project. To run it from the command line,
-type `mvnw` (Windows), or `./mvnw` (Mac & Linux), then open
-http://localhost:8080 in your browser.
+El proyecto es un proyecto Maven estándar. Para ejecutarlo desde la línea de comandos,
+escriba `mvnw` (Windows), o `./mvnw` (Mac y Linux), luego abra
+http://localhost:8080 en el navegador de su preferencia.
 
-You can also import the project to your IDE of choice as you would with any
-Maven project. Read more on [how to import Vaadin projects to different 
-IDEs](https://vaadin.com/docs/latest/flow/guide/step-by-step/importing) (Eclipse, IntelliJ IDEA, NetBeans, and VS Code).
+También puede importar el proyecto a su IDE de elección como lo haría con cualquier
+Proyecto Mave. Obtenga más información consultando el siguiente enlace (https://vaadin.com/docs/latest/flow/guide/step-by-step/importing) 
+Para los siguientes IDE's(Eclipse, IntelliJ IDEA, NetBeans y VS Code).
 
-## Deploying to Production
+## Estructura del proyecto
+- `MainLayout.java` en `src/main/java` contiene la configuración de navegación (es decir, la
+   barra lateral/superior y el menú principal). Esta configuración utiliza
+   [Diseño de la aplicación](https://vaadin.com/components/vaadin-app-layout).
+- El paquete `views` en `src/main/java` contiene las vistas Java del lado del servidor de su aplicación.
+- La carpeta `views` en `frontend/` contiene las vistas JavaScript del lado del cliente de su aplicación.
+- La carpeta `themes` en `frontend/` contiene los estilos CSS personalizados.
 
-To create a production build, call `mvnw clean package -Pproduction` (Windows),
-or `./mvnw clean package -Pproduction` (Mac & Linux).
-This will build a JAR file with all the dependencies and front-end resources,
-ready to be deployed. The file can be found in the `target` folder after the build completes.
-
-Once the JAR file is built, you can run it using
-`java -jar target/flowcrmtutorial-1.0-SNAPSHOT.jar`
-
-## Project structure
-
-- `MainLayout.java` in `src/main/java` contains the navigation setup (i.e., the
-  side/top bar and the main menu). This setup uses
-  [App Layout](https://vaadin.com/components/vaadin-app-layout).
-- `views` package in `src/main/java` contains the server-side Java views of your application.
-- `views` folder in `frontend/` contains the client-side JavaScript views of your application.
-- `themes` folder in `frontend/` contains the custom CSS styles.
-
-## Useful links
+## Enlaces útiles
 
 - Read the documentation at [vaadin.com/docs](https://vaadin.com/docs).
 - Follow the tutorials at [vaadin.com/tutorials](https://vaadin.com/tutorials).
@@ -45,3 +33,5 @@ Once the JAR file is built, you can run it using
 - Find Add-ons at [vaadin.com/directory](https://vaadin.com/directory).
 - Ask questions on [Stack Overflow](https://stackoverflow.com/questions/tagged/vaadin) or join our [Discord channel](https://discord.gg/MYFq5RTbBn).
 - Report issues, create pull requests in [GitHub](https://github.com/vaadin/platform).
+
+## Problemática
