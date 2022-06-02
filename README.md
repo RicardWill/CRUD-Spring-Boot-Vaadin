@@ -1,6 +1,6 @@
 CRUD en Spring boot & Vaadin
 
-<p style="color:red">
+<p align="left" style="text-align: justify;"> 
 <h6>
 La empresa MonteCasino se dedicada al soporte de cámaras de seguridad, actualmente presenta problemas con sus empleados no  realizan un chequeo de entrada y salida laboral, para ello ha contratado un equipo de desarrollo no mayor a 5 personas de profesionales en el desarrollo de software y aplicaciones móviles para realizar el desarrollo de una aplicación móvil que cumpla con las siguientes características:
 </h6>
