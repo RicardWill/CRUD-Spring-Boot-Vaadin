@@ -35,3 +35,7 @@ Para los siguientes IDE's(Eclipse, IntelliJ IDEA, NetBeans y VS Code).
 - Report issues, create pull requests in [GitHub](https://github.com/vaadin/platform).
 
 ## Problemática
+La empresa MonteCasino se dedicada al soporte de cámaras de seguridad, actualmente presenta problemas con sus empleados 
+no  realizan un chequeo de entrada y salida laboral, para ello ha contratado un equipo de desarrollo no mayor a 5 per-
+sonas de profesionales en el desarrollo de software y aplicaciones móviles para realizar el desarrollo de una aplicaci-
+ón móvil que cumpla con las siguientes características:
