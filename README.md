@@ -6,19 +6,19 @@ La empresa MonteCasino se dedicada al soporte de cámaras de seguridad, actualme
 </h5>
 </p>
 
--> El aplicativo debe someterse a los siguientes requerimientos tecnológicos: Base de datos en MySQL.
--> Interfaz capaz de funcionar en equipos windows, linux, Mac, iOS y android. (WEB Responsiva)
-->Lenguaje de programación Java.
-->La interfaz debe de poder ajustarse a la pantalla del dispositivo en que se acceda.
--> Contar con una interfaz para realizar el chequeo de entrada del empleado con los siguientes datos:
-Clave de empleado.
-Fecha y hora.
-Identificador del kiosko.
+-> El aplicativo debe someterse a los siguientes requerimientos tecnológicos: Base de datos en MySQL.<br>
+-> Interfaz capaz de funcionar en equipos windows, linux, Mac, iOS y android. (WEB Responsiva)<br>
+->Lenguaje de programación Java.<br>
+->La interfaz debe de poder ajustarse a la pantalla del dispositivo en que se acceda.<br>
+-> Contar con una interfaz para realizar el chequeo de entrada del empleado con los siguientes datos:<br>
+Clave de empleado.<br>
+Fecha y hora.<br>
+Identificador del kiosko.<br>
 
--> Contar con una interfaz para realizar el chequeo de salida del empleado con los siguientes datos:
-Clave de empleado.
-Fecha y hora.
-Identificador del kiosko.
--> Generar un reporte visual de las entradas realizadas.
+-> Contar con una interfaz para realizar el chequeo de salida del empleado con los siguientes datos:<br>
+Clave de empleado.<br>
+Fecha y hora.<br>
+Identificador del kiosko.<br>
+-> Generar un reporte visual de las entradas realizadas.<br>
 -> Generar un reporte visual de las salidas realizadas.
   
