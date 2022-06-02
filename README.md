@@ -1,4 +1,4 @@
-CRUD en Spring boot & Vaadin
+<h1 align="center">CRUD en Spring boot & Vaadin</h1>
 
 <p align="left" style="text-align: justify;"> 
 <h6>
