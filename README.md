@@ -47,13 +47,19 @@ sonas de profesionales en el desarrollo de software y aplicaciones móviles para
 -La interfaz debe de poder ajustarse a la pantalla del dispositivo en que se acceda.
 
 -> Contar con una interfaz para realizar el chequeo de entrada del empleado con los siguientes datos:
+
 -Clave de empleado.
+
 -Fecha y hora.
+
 -Identificador del kiosko.
 
 -> Contar con una interfaz para realizar el chequeo de salida del empleado con los siguientes datos:
+
 -Clave de empleado.
+
 -Fecha y hora.
+
 -Identificador del kiosko.
 
 -> Generar un reporte visual de las entradas realizadas.
