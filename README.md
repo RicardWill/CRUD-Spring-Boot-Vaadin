@@ -62,7 +62,10 @@ sonas de profesionales en el desarrollo de software y aplicaciones móviles para
 
 ## Detalles de ejecución
 -Vaadin 23.0.9
+
+
 -IntelliJ IDEA 2022.1.1 (Community Edition)
+
 -Java Development Kit v18
 Build #IC-221.5591.52, built on May 10, 2022
 Runtime version: 11.0.14.1+1-b2043.45 amd64
