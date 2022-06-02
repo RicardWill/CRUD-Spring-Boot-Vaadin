@@ -39,6 +39,7 @@ La empresa MonteCasino se dedicada al soporte de cámaras de seguridad, actualme
 no  realizan un chequeo de entrada y salida laboral, para ello ha contratado un equipo de desarrollo no mayor a 5 per-
 sonas de profesionales en el desarrollo de software y aplicaciones móviles para realizar el desarrollo de una aplicaci-
 ón móvil que cumpla con las siguientes características:
+
 -> El aplicativo debe someterse a los siguientes requerimientos tecnológicos:
 -Base de datos en MySQL.
 -Interfaz capaz de funcionar en equipos windows, linux, Mac, iOS y android.
