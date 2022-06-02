@@ -39,3 +39,39 @@ La empresa MonteCasino se dedicada al soporte de cámaras de seguridad, actualme
 no  realizan un chequeo de entrada y salida laboral, para ello ha contratado un equipo de desarrollo no mayor a 5 per-
 sonas de profesionales en el desarrollo de software y aplicaciones móviles para realizar el desarrollo de una aplicaci-
 ón móvil que cumpla con las siguientes características:
+-> El aplicativo debe someterse a los siguientes requerimientos tecnológicos:
+-Base de datos en MySQL.
+-Interfaz capaz de funcionar en equipos windows, linux, Mac, iOS y android.
+-Lenguaje de programación Java.
+-La interfaz debe de poder ajustarse a la pantalla del dispositivo en que se acceda.
+
+-> Contar con una interfaz para realizar el chequeo de entrada del empleado con los siguientes datos:
+-Clave de empleado.
+-Fecha y hora.
+-Identificador del kiosko.
+
+-> Contar con una interfaz para realizar el chequeo de salida del empleado con los siguientes datos:
+-Clave de empleado.
+-Fecha y hora.
+-Identificador del kiosko.
+
+-> Generar un reporte visual de las entradas realizadas.
+
+-> Generar un reporte visual de las salidas realizadas.
+
+## Detalles de ejecución
+-Vaadin 23.0.9
+-IntelliJ IDEA 2022.1.1 (Community Edition)
+-Java Development Kit v18
+Build #IC-221.5591.52, built on May 10, 2022
+Runtime version: 11.0.14.1+1-b2043.45 amd64
+VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
+Windows 10 10.0
+GC: G1 Young Generation, G1 Old Generation
+Memory: 992M
+Cores: 4
+Non-Bundled Plugins:
+    dev.eltonsandre.intellij.spring.assistant.plugin (1.5.2)
+
+Kotlin: 221-1.6.21-release-337-IJ5591.52
+
