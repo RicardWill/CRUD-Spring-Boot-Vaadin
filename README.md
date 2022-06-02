@@ -1,10 +1,10 @@
 CRUD en Spring boot & Vaadin
 
-<div id="parrafoCentral" style="text-align: justify;">
-<h6 style="text-align: justify;">
+<p style="color:red">
+<h6>
 La empresa MonteCasino se dedicada al soporte de cámaras de seguridad, actualmente presenta problemas con sus empleados no  realizan un chequeo de entrada y salida laboral, para ello ha contratado un equipo de desarrollo no mayor a 5 personas de profesionales en el desarrollo de software y aplicaciones móviles para realizar el desarrollo de una aplicación móvil que cumpla con las siguientes características:
 </h6>
-</div>
+</p>
 
 -> El aplicativo debe someterse a los siguientes requerimientos tecnológicos:
 Base de datos en MySQL.
